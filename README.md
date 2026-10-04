@@ -3,12 +3,12 @@
 This project is dual phonetic transcription dictionary dedicated to solve the pronunciation problems resulting from native language barriers, specifically tailored for native turkish speakers and native english speakers.
 
 The dictionary uses IPA standards for phonetic description and consists of two main parts:
-1.**For Turkish learners of English**: : 250 English words that are the most diffucult to pronounce.
-2.**For English learners of Turkish**: 250 Turkish words that are the most difficult to pronounce
+1.**For Turkish learners of English**: : 200 English words that are the most diffucult to pronounce.
+2.**For English learners of Turkish**: 200 Turkish words that are the most difficult to pronounce
 
 
 ## 🚀 Features
-* **Aimed list:** 500 words with the highest probability of mispronunciation
+* **Aimed list:** 400 words with the highest probability of mispronunciation
 * **Comparative:** Suitable for both English and Turkish speakers
 * **Developer Friendly:** All data is stored in a clean `dictionary.json` file that can be easily processed and integrated into applications.
 
